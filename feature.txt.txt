@@ -1,0 +1,17 @@
+What is your favourite Git command?
+
+I'm curious to know, what is your favourite Git command?
+
+Mine is "git commit --amend", which let's you change your last commit message. I manage to mess up a commit message at least once a day 
+
+The git blame command shows what revision and author last modified each line of a file.
+
+git stash
+git stash pop
+
+for keeping file changes without commit. for example, you're doing your new feature and then bug found on production so you need to switch to new branch for hot fix. you can use git stash to keep your changes on feature branch and when you finish fixing bug you can use git stash pop for get back your file changes
+
+My favorite command is...
+git log --all --graph --decorate --oneline
+My alias for it is gitpretty. Git + Ascii art, what more could you want.
+
